@@ -1,0 +1,2 @@
+(this.webpackJsonppicbed=this.webpackJsonppicbed||[]).push([[8],{243:function(e,c,t){"use strict";t.r(c);var i=t(5);c.default=function(){return Object(i.jsxs)(i.Fragment,{children:[Object(i.jsx)("h2",{children:"\u57fa\u4e8e leanCloud \u6570\u636e\u5b58\u50a8 \u548c github \u6587\u4ef6\u5b58\u50a8 \u6240\u5f00\u53d1\u7684\u7b80\u5355\u56fe\u5e8a\u9879\u76ee"}),Object(i.jsx)("h2",{children:"\u524d\u7aef\u57fa\u4e8e React Hooks + TypeScript + mobx \u6280\u672f\u6808"})]})}}}]);
+//# sourceMappingURL=8.e59fc456.chunk.js.map
